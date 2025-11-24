@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1763738674 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+
+1763738674 c:\users\jefferson\documents\projetos\tde do nayron\tde\usuario.h
+
+1763738674 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1763738675 c:\users\jefferson\documents\projetos\tde do nayron\tde\arvore_binaria.h
+	"usuario.h"
+
+1763738674 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\tabela_hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+
+1763738674 c:\users\jefferson\documents\projetos\tde do nayron\tde\tabela_hash.h
+	"usuario.h"
+
+1763773099 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+	"arvore_binaria.h"
+	"tabela_hash.h"
+	"grafo.h"
+	"algoritmos.h"
+
+1763742475 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1763738674 c:\users\jefferson\documents\projetos\tde do nayron\tde\grafo.h
+	"usuario.h"
+
+1763738674 source:c:\users\jefferson\documents\projetos\tde do nayron\tde\algoritmos.c
+	<stdio.h>
+	<string.h>
+	"algoritmos.h"
+
+1763738674 c:\users\jefferson\documents\projetos\tde do nayron\tde\algoritmos.h
+	"usuario.h"
+
